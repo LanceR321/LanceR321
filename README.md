@@ -1,5 +1,5 @@
 ### Hi, I'm Lance Reyes 
-### I’m currently enrolled at San Diego State Univeristy as a computer engineering major
+### I’m a computer engineering major at San Diego State Univeristy 
 ### I’m currently learning Web Programming and Embedded Operating systems
 ### How to reach me: https://www.linkedin.com/in/lance-m-reyes/
 
